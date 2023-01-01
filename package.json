@@ -13,7 +13,7 @@
   "author": "Marcos Hannecke",
   "license": "ISC",
   "dependencies": {
-    "config": "^3.2.4",
+    "config": "^3.3.8",
     "errorhandler": "^1.5.1",
     "express": "^4.17.1",
     "express-session": "^1.17.0",
